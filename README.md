@@ -1,12 +1,14 @@
 # Portfolio Website Deployment Guide
 
-This guide will walk you through the process of cloning the [Portfolio Website](https://github.com/ragulpandi/portfolio) repository, setting up Node.js, bundling the project, and deploying it to Firebase.
+This guide will walk you through the process of cloning the [Portfolio Website](https://portfolio-bannari-amman.web.app/) repository, setting up Node.js, bundling the project, and deploying it to Firebase.
 
 ## Prerequisites
 
 - Git
 - Node.js and npm
 - Firebase CLI
+
+## [Presentation Link](https://www.canva.com/design/DAF2yE40xi0/3d8T36qq7_-5e3kfkV060A/view?utm_content=DAF2yE40xi0&utm_campaign=designshare&utm_medium=link&utm_source=editoro)
 
 ## Cloning the Repository
 
