@@ -20,7 +20,7 @@ This guide will walk you through the process of cloning the [Portfolio Website](
    cd portfolio
    ```
 
-## Setting Up Node.js
+## Setting Up Node.js (Only for Node based projects)
 
 1. Initialize a new Node.js project:
    ```bash
@@ -32,7 +32,7 @@ This guide will walk you through the process of cloning the [Portfolio Website](
    ```
    *(Adjust the command based on your bundler or build tool.)*
 
-## Bundling the Project
+## Bundling the Project 
 
 1. Set up your build tool according to its documentation.
 2. Add a build script in your `package.json`:
@@ -61,7 +61,7 @@ This guide will walk you through the process of cloning the [Portfolio Website](
    firebase init
    ```
    - Follow the prompts to set up hosting.
-   - When asked for the public directory, enter the build folder name (e.g., `dist`).
+   - When asked for the public directory, enter the build folder name (e.g., `.` for selecting your current folder).
 4. Deploy your project:
    ```bash
    firebase deploy
