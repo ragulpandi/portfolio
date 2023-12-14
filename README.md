@@ -50,7 +50,7 @@ This guide will walk you through the process of cloning the [Portfolio Website](
 
 1. Install Firebase CLI globally (if not already installed):
    ```bash
-   npm install -g firebase-tools
+   npm install -g firebase-tools@10.9.2
    ```
 2. Log in to Firebase:
    ```bash
